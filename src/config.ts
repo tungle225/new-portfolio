@@ -1,20 +1,23 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Xuan Tung Le",
+  title: "Legged Robotics Researcher",
+  description: "Portfolio website of Xuan Tung Le",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "lexuantung2250@gmail.com",
+    linkedin: "https://www.linkedin.com/in/xuan-tung-le",
+    // twitter: "https://x.com/rfitzio",
+    github: "https://github.com/tungle225",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    `Hi! I am Xuan Tung Le, a legged robotics researcher. I am currently attending Mechanical Engineering PhD program at Texas A&M University in College Station. I have 
+    Master of Science and Bachelor of Science degree in Mechanical Engineering at Virginia Tech. I have a strong skill set in dynamic, kinematic modeling, and gait development for quadruped robots. 
+    I use MATLAB for model development, Simulink and Gazebo for physic simulation. I also have more than 2 years of experience with mechanical design, CAD modelling and FEA analysis. 
+    `,
+  skills: ["MATLAB", "Simulink", "Gazebo", "Kinematic Modeling", "Dynamic Modeling", "Mechanical Design", "CAD Modeling", "FEA Analysis", "Python"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Quadruped robot modeling, gait development, and control",
       description:
         "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
       link: "https://aidevroundup.com/?ref=devportfolio",
